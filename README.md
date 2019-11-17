@@ -10,6 +10,8 @@ The idea is to have a RaspberryPi and drive some LEDs with the GPIOs.
 ### Software
 
 Python with pigpio on raspbian.
+Have working hours so it switches off automatically at night.
+If it was on before night, resumes in the morning.
 
 
 ### User interface
